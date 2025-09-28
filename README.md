@@ -75,11 +75,6 @@ You can delete it anytime — the app will create a new database automatically.
 
 ![Expense Tracker Screenshot](expense_tracker_screenshot.png)
 
----
-
-## 🎥 YouTube Tutorial
-
-👉 Watch the full tutorial here: [https://youtube.com/@ag_youtube?si=85gRFD9z8CAm4qNk](https://youtube.com/@ag_youtube?si=85gRFD9z8CAm4qNk)
 
 ---
 
@@ -96,5 +91,6 @@ Feel free to fork this repo and play around with:
 ## 📜 License
 
 This project is **free to use** for learning purposes.
+
 
 
